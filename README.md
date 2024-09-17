@@ -39,7 +39,8 @@ Ferramentas para coleta, armazenamento e análise de dados
 ### Seções do Projeto:
 
 1. [☁️ Benefícios da Nuvem Azure](beneficiosNuvemAzure.md) 
-2. [☁️ Tipos de Serviço na Nuvem](tiposServicos.md) 
+2. [☁️ Tipos de Serviço na Nuvem](tiposServicos.md)
+3. [☁️ Componentes de Arquitetura da Azure](componentesArquitetura.md)
 
 
 
