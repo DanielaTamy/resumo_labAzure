@@ -8,6 +8,7 @@
 ## 🏢 Zonas de Disponibilidade
 - Protegem contra o tempo de inatividade causado por falhas em um datacenter.
 - Garantem maior resiliência, mantendo os aplicativos funcionando mesmo em caso de falha de infraestrutura.
+![image](https://github.com/user-attachments/assets/d56e209e-3983-4a10-a160-6284428135e5)
 
 ## 🔗 Pares de Região
 - Regiões emparelhadas, com no mínimo 300 milhas de distância entre si.
@@ -38,6 +39,7 @@
 - **Funções**:
   - Controle de cobrança por assinatura.
   - Limita o controle de acesso de acordo com as necessidades do usuário.
+![image](https://github.com/user-attachments/assets/b06be20e-5b29-4c3f-9f8b-c93fe4f8e29b)
 
 
 # 🏢 Grupos de Gerenciamento
