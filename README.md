@@ -1,4 +1,4 @@
-# 🌐 MICROSOFT AZURE - LOCALIZANDO SERVIÇOS POR CATEGORIA
+# 🌐 MICROSOFT AZURE 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 **📅 Data**: Setembro/2024  
