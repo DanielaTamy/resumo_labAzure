@@ -35,6 +35,7 @@ Ferramentas para coleta, armazenamento e análise de dados
 6. [☁️ Identidade, Acesso e Segurança no Azure](identidade.md)
 7. [☁️ Gerenciamento de custos na Azure](custos.md)
 8. [☁️ Governança e Conformidade](governanca.md)
+9. [☁️ Ferramentas de Gerenciamento e Implantação Azure](ferramentas.md)
 
 
 
