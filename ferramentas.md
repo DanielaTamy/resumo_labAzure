@@ -1,10 +1,10 @@
 # Ferramentas de Gerenciamento e Implantação no Azure
 
 ## 🔧 Ferramentas para Interagir com o Azure
-- 🌐 **Portal do Azure**: Interface gráfica para gerenciar e visualizar recursos.
-- 💻 **Azure CloudShell**: Shell baseado em navegador para comandos e scripts.
-- 📜 **Azure PowerShell**: Ferramenta de automação via scripts em PowerShell.
-- 🖥️ **Interface de Linha de Comando (CLI)**: Interação com o Azure via comandos em vários ambientes.
+- 🌐 **Portal do Azure**: Interface gráfica para gerenciar e visualizar recursos
+- 💻 **Azure CloudShell**
+- 📜 **Azure PowerShell**
+- 🖥️ **Interface de Linha de Comando (CLI)**
 
 ## 🌍 Azure Arc
 - Gerenciamento de recursos **fora do Azure** (on-premises, multinuvem e dispositivos de borda).
