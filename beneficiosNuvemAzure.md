@@ -6,7 +6,7 @@ garante que seus recursos estarão **sempre disponíveis** quando necessários. 
 
 ## 📈 Escalabilidade
 capacidade de ajustar recursos de acordo com a **demanda**, permitindo **adicionar** ou **reduzir** recursos conforme necessário. Com o modelo baseado no **consumo**, você paga apenas pelo que utiliza.  
-- **Escala Vertical**: Aumento de capacidade de **CPU**, **RAM** ou **Máquinas Virtuais**
+- **Escala Vertical**: Aumento de capacidade de **CPU**, **RAM**
 
 ## ⚖️ Elasticidade
 **expandir automaticamente** ou **manualmente** os recursos conforme a necessidade, garantindo escalar o ambiente para lidar com picos de requisições. Quando a demanda diminui, os recursos podem ser **reduzidos horizontalmente**
