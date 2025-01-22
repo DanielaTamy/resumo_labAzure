@@ -7,7 +7,7 @@
   - 🛡️ Segurança
   - 🚀 Desempenho
   - 💰 Custo
-  - 🏆 Excelência Operacional
+  - 🏆 Operacional
 
 ## 🛡️ Integridade do Serviço do Azure
 - Coleção de serviços que informa o status do Azure:
